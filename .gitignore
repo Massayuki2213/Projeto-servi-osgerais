@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Prisma
+.env
+.prisma/
+
+# Logs
+logs/
+*.log
+
+# Editor
+.vscode/
